@@ -3,18 +3,18 @@
 permalink:           pretty
 
 # Setup
-title:               Dawn Childress
+title:               Brianna Toth
 tagline:             'digital scholarship : book history : textual studies'
 description:         'The website of Dawn Childress, UCLA Digital Library Program'
-url:                 http://dawnchildress.com
+url:                 https://bravoalphatango.github.io/
 baseurl:             
 paginate:            5
 
 # About/contact
 author:
-  name:              Dawn Childress
-  url:               dawnchildress.com
-  email:             dchildress@library.ucla.edu
+  name:              Brinna Toth
+  url:               bravoalphatango.github.io/
+  email:             btoth@g.ucla.edu
   
 # Conversion
 markdown:    kramdown  
